@@ -2,5 +2,7 @@
 
 ![Alt text](images/Diagram1.drawio(1).png)
 
-![Alt text](images/Untitled Diagram.drawio.png)
+### Second Assignment
+
+![Alt text](https://github.com/teamsmartworld/Exercise-Algorithm-Flowchart-Draw-io/blob/main/images/Untitled%20Diagram.drawio.png)
 
